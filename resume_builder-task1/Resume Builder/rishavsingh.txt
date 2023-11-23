@@ -1,0 +1,27 @@
+      Personal Information      
+Firstname: Rishav
+Surname: Singh
+Address: Gaya,Bihar
+
+
+ Pincode: 823001
+Nationality: Indian
+DOB: 16.01.2003
+Phone No.: 8797100503
+Email: rishavsingh5643@gmail.com
+      Skills      
+Category: 
+Description
+Category: 
+Description
+Category: 
+Description: 
+      Qualifications   
+College/University: 
+School: 
+Other: 
+      Work Experience     
+Company: Codeclause
+Designation: java developer intern
+Company: 
+Designation: 
